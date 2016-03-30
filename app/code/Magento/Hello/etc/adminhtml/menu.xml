@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2016 AionNext Ltd. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Magento_Hello::content_elements" title="Test Extension" module="Magento_Backend" sortOrder="10" parent="Magento_Backend::content"
+             resource="Magento_Backend::content_elements"/>
+        <add id="Magento_Hello::hello_test" title="Manage Items" module="Magento_Hello" sortOrder="10" parent="Magento_Hello::content_elements" action="hello/test"
+             resource="Magento_Hello::test"/>
+    </menu>
+</config>

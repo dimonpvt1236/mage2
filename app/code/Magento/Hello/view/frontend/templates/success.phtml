@@ -1,0 +1,22 @@
+<p><?php echo "Success magento 2.0.2"; ?></p>
+<p><?php echo $block->getTest(); ?></p>
+
+<div class="aion-test">
+    <h2><?php echo __('This is a test extension!') ?></h2>
+    <!-- See a sample model -->
+    <?php \Zend_Debug::dump($block->getTestModel()->getData()); ?>
+    <!-- See a sample collection -->
+    <?php \Zend_Debug::dump($block->getItems()->getData()); ?>
+
+    <!-- See a sample collection iteration -->
+    <?php $items = $block->getItems(); ?>
+    <?php if ($items->getSize()) : ?>
+        <?php foreach ($items as $item) : ?>
+            <h3><?php echo $block->stripTags($item->getName()) ?></h3>
+            <p>
+                <span><?php echo __('Email:'); ?></span>&nbsp;
+                <span><?php echo $item->getEmail() ?></span>
+            </p>
+        <?php endforeach; ?>
+    <?php endif; ?>
+</div>

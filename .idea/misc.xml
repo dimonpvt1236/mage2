@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectResources">
+    <resource url="urn:magento:framework:Acl/etc/acl.xsd" location="$PROJECT_DIR$/vendor/magento/framework/Acl/etc/acl.xsd" />
+    <resource url="urn:magento:framework:Api/etc/extension_attributes.xsd" location="$PROJECT_DIR$/vendor/magento/framework/Api/etc/extension_attributes.xsd" />
+    <resource url="urn:magento:framework:App/etc/resources.xsd" location="$PROJECT_DIR$/vendor/magento/framework/App/etc/resources.xsd" />
+    <resource url="urn:magento:framework:App/etc/routes.xsd" location="$PROJECT_DIR$/vendor/magento/framework/App/etc/routes.xsd" />
+    <resource url="urn:magento:framework:Cache/etc/cache.xsd" location="$PROJECT_DIR$/vendor/magento/framework/Cache/etc/cache.xsd" />
+    <resource url="urn:magento:framework:Config/etc/theme.xsd" location="$PROJECT_DIR$/vendor/magento/framework/Config/etc/theme.xsd" />
+    <resource url="urn:magento:framework:Config/etc/view.xsd" location="$PROJECT_DIR$/vendor/magento/framework/Config/etc/view.xsd" />
+    <resource url="urn:magento:framework:Data/etc/argument/types.xsd" location="$PROJECT_DIR$/vendor/magento/framework/Data/etc/argument/types.xsd" />
+    <resource url="urn:magento:framework:DataObject/etc/fieldset.xsd" location="$PROJECT_DIR$/vendor/magento/framework/DataObject/etc/fieldset.xsd" />
+    <resource url="urn:magento:framework:Event/etc/events.xsd" location="$PROJECT_DIR$/vendor/magento/framework/Event/etc/events.xsd" />
+    <resource url="urn:magento:framework:Indexer/etc/indexer.xsd" location="$PROJECT_DIR$/vendor/magento/framework/Indexer/etc/indexer.xsd" />
+    <resource url="urn:magento:framework:Module/etc/module.xsd" location="$PROJECT_DIR$/vendor/magento/framework/Module/etc/module.xsd" />
+    <resource url="urn:magento:framework:Mview/etc/mview.xsd" location="$PROJECT_DIR$/vendor/magento/framework/Mview/etc/mview.xsd" />
+    <resource url="urn:magento:framework:ObjectManager/etc/config.xsd" location="$PROJECT_DIR$/vendor/magento/framework/ObjectManager/etc/config.xsd" />
+    <resource url="urn:magento:framework:Search/etc/requests.xsd" location="$PROJECT_DIR$/vendor/magento/framework/Search/etc/requests.xsd" />
+    <resource url="urn:magento:framework:Search/etc/search_request.xsd" location="$PROJECT_DIR$/vendor/magento/framework/Search/etc/search_request.xsd" />
+    <resource url="urn:magento:framework:Validator/etc/validation.xsd" location="$PROJECT_DIR$/vendor/magento/framework/Validator/etc/validation.xsd" />
+    <resource url="urn:magento:framework:View/Layout/etc/body.xsd" location="$PROJECT_DIR$/vendor/magento/framework/View/Layout/etc/body.xsd" />
+    <resource url="urn:magento:framework:View/Layout/etc/elements.xsd" location="$PROJECT_DIR$/vendor/magento/framework/View/Layout/etc/elements.xsd" />
+    <resource url="urn:magento:framework:View/Layout/etc/head.xsd" location="$PROJECT_DIR$/vendor/magento/framework/View/Layout/etc/head.xsd" />
+    <resource url="urn:magento:framework:View/Layout/etc/html.xsd" location="$PROJECT_DIR$/vendor/magento/framework/View/Layout/etc/html.xsd" />
+    <resource url="urn:magento:framework:View/Layout/etc/layout_generic.xsd" location="$PROJECT_DIR$/vendor/magento/framework/View/Layout/etc/layout_generic.xsd" />
+    <resource url="urn:magento:framework:View/Layout/etc/page_configuration.xsd" location="$PROJECT_DIR$/vendor/magento/framework/View/Layout/etc/page_configuration.xsd" />
+    <resource url="urn:magento:framework:View/Layout/etc/page_layout.xsd" location="$PROJECT_DIR$/vendor/magento/framework/View/Layout/etc/page_layout.xsd" />
+    <resource url="urn:magento:framework:View/Layout/etc/page_types.xsd" location="$PROJECT_DIR$/vendor/magento/framework/View/Layout/etc/page_types.xsd" />
+    <resource url="urn:magento:framework:View/PageLayout/etc/layouts.xsd" location="$PROJECT_DIR$/vendor/magento/framework/View/PageLayout/etc/layouts.xsd" />
+    <resource url="urn:magento:module:Magento_Backend:etc/menu.xsd" location="$PROJECT_DIR$/vendor/magento/module-backend/etc/menu.xsd" />
+    <resource url="urn:magento:module:Magento_Catalog:etc/catalog_attributes.xsd" location="$PROJECT_DIR$/vendor/magento/module-catalog/etc/catalog_attributes.xsd" />
+    <resource url="urn:magento:module:Magento_Catalog:etc/product_options.xsd" location="$PROJECT_DIR$/vendor/magento/module-catalog/etc/product_options.xsd" />
+    <resource url="urn:magento:module:Magento_Catalog:etc/product_options_merged.xsd" location="$PROJECT_DIR$/vendor/magento/module-catalog/etc/product_options_merged.xsd" />
+    <resource url="urn:magento:module:Magento_Catalog:etc/product_types.xsd" location="$PROJECT_DIR$/vendor/magento/module-catalog/etc/product_types.xsd" />
+    <resource url="urn:magento:module:Magento_Catalog:etc/product_types_base.xsd" location="$PROJECT_DIR$/vendor/magento/module-catalog/etc/product_types_base.xsd" />
+    <resource url="urn:magento:module:Magento_Catalog:etc/product_types_merged.xsd" location="$PROJECT_DIR$/vendor/magento/module-catalog/etc/product_types_merged.xsd" />
+    <resource url="urn:magento:module:Magento_Config:etc/system_file.xsd" location="$PROJECT_DIR$/vendor/magento/module-config/etc/system_file.xsd" />
+    <resource url="urn:magento:module:Magento_Config:etc/system_include.xsd" location="$PROJECT_DIR$/vendor/magento/module-config/etc/system_include.xsd" />
+    <resource url="urn:magento:module:Magento_Cron:etc/cron_groups.xsd" location="$PROJECT_DIR$/vendor/magento/module-cron/etc/cron_groups.xsd" />
+    <resource url="urn:magento:module:Magento_Cron:etc/crontab.xsd" location="$PROJECT_DIR$/vendor/magento/module-cron/etc/crontab.xsd" />
+    <resource url="urn:magento:module:Magento_Customer:etc/address_formats.xsd" location="$PROJECT_DIR$/vendor/magento/module-customer/etc/address_formats.xsd" />
+    <resource url="urn:magento:module:Magento_Customer:etc/sections.xsd" location="$PROJECT_DIR$/vendor/magento/module-customer/etc/sections.xsd" />
+    <resource url="urn:magento:module:Magento_Directory:etc/zip_codes.xsd" location="$PROJECT_DIR$/vendor/magento/module-directory/etc/zip_codes.xsd" />
+    <resource url="urn:magento:module:Magento_Eav:etc/eav_attributes.xsd" location="$PROJECT_DIR$/vendor/magento/module-eav/etc/eav_attributes.xsd" />
+    <resource url="urn:magento:module:Magento_Email:etc/email_templates.xsd" location="$PROJECT_DIR$/vendor/magento/module-email/etc/email_templates.xsd" />
+    <resource url="urn:magento:module:Magento_ImportExport:etc/export.xsd" location="$PROJECT_DIR$/vendor/magento/module-import-export/etc/export.xsd" />
+    <resource url="urn:magento:module:Magento_ImportExport:etc/export_merged.xsd" location="$PROJECT_DIR$/vendor/magento/module-import-export/etc/export_merged.xsd" />
+    <resource url="urn:magento:module:Magento_ImportExport:etc/import.xsd" location="$PROJECT_DIR$/vendor/magento/module-import-export/etc/import.xsd" />
+    <resource url="urn:magento:module:Magento_ImportExport:etc/import_merged.xsd" location="$PROJECT_DIR$/vendor/magento/module-import-export/etc/import_merged.xsd" />
+    <resource url="urn:magento:module:Magento_Payment:etc/payment.xsd" location="$PROJECT_DIR$/vendor/magento/module-payment/etc/payment.xsd" />
+    <resource url="urn:magento:module:Magento_Paypal:etc/rules.xsd" location="$PROJECT_DIR$/vendor/magento/module-paypal/etc/rules.xsd" />
+    <resource url="urn:magento:module:Magento_Persistent:etc/./persistent.xsd" location="$PROJECT_DIR$/vendor/magento/module-persistent/etc/./persistent.xsd" />
+    <resource url="urn:magento:module:Magento_Sales:etc/pdf.xsd" location="$PROJECT_DIR$/vendor/magento/module-sales/etc/pdf.xsd" />
+    <resource url="urn:magento:module:Magento_Sales:etc/pdf_file.xsd" location="$PROJECT_DIR$/vendor/magento/module-sales/etc/pdf_file.xsd" />
+    <resource url="urn:magento:module:Magento_Sales:etc/sales.xsd" location="$PROJECT_DIR$/vendor/magento/module-sales/etc/sales.xsd" />
+    <resource url="urn:magento:module:Magento_Store:etc/config.xsd" location="$PROJECT_DIR$/vendor/magento/module-store/etc/config.xsd" />
+    <resource url="urn:magento:module:Magento_Ui:etc/data_source.xsd" location="$PROJECT_DIR$/vendor/magento/module-ui/etc/data_source.xsd" />
+    <resource url="urn:magento:module:Magento_Ui:etc/ui_components.xsd" location="$PROJECT_DIR$/vendor/magento/module-ui/etc/ui_components.xsd" />
+    <resource url="urn:magento:module:Magento_Ui:etc/ui_configuration.xsd" location="$PROJECT_DIR$/vendor/magento/module-ui/etc/ui_configuration.xsd" />
+    <resource url="urn:magento:module:Magento_Ui:etc/ui_definition.xsd" location="$PROJECT_DIR$/vendor/magento/module-ui/etc/ui_definition.xsd" />
+    <resource url="urn:magento:module:Magento_Webapi:etc/webapi.xsd" location="$PROJECT_DIR$/vendor/magento/module-webapi/etc/webapi.xsd" />
+    <resource url="urn:magento:module:Magento_Widget:etc/types.xsd" location="$PROJECT_DIR$/vendor/magento/module-widget/etc/types.xsd" />
+    <resource url="urn:magento:module:Magento_Widget:etc/widget.xsd" location="$PROJECT_DIR$/vendor/magento/module-widget/etc/widget.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" />
+</project>

@@ -1,0 +1,1 @@
+/var/www/mage2/vendor/magento/module-braintree/view/frontend/web/js/cc-data.js

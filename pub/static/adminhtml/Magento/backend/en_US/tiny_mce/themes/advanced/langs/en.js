@@ -1,0 +1,1 @@
+/var/www/mage2/lib/web/tiny_mce/themes/advanced/langs/en.js

@@ -1,0 +1,1 @@
+/var/www/mage2/lib/web/jquery/fileUploader/canvas-to-blob.js
